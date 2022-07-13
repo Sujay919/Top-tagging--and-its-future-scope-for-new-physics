@@ -1,0 +1,16 @@
+#**********************FINAL RESULT*****************************
+#NO of top quarks found in hardest jets:70
+#Number of total events                :9808
+#percentage of top tagged:0.713703%
+#     #bin    total_event         tagged     percentage
+         0              0              0              0
+       100              0              0              0
+       200              0              0              0
+       300              0              0              0
+       400             21              0              0
+       500            819              4       0.488401
+       600           4350             36       0.827586
+       700           2228             22       0.987433
+       800            900              3       0.333333
+       900            375              2       0.533333
+      1000            202              1        0.49505
